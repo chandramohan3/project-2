@@ -42,7 +42,6 @@ Additional Dependencies: Includes NumPy, Pandas, OpenCV (if using image-based te
 ![Screenshot 2025-02-20 105908](https://github.com/user-attachments/assets/e79a4df7-8026-4657-887c-b8481341f0e1)
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
 
 
